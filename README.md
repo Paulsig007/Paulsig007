@@ -12,8 +12,9 @@ export default function Andrick() {
   <div>
     <h1>Introduction</h1>
       <p>
-        Passionate full stack developer, with a deep interest in the front-end and the user experience, driven by the thrill of the chase for the best solution. I believe living is synonomous with learning, and I try to 
-        build every day I can.
+        Passionate full stack developer, with a deep interest in the front-end and the user experience,
+        driven by the thrill of the chase for the best solution. I believe living is synonomous with learning,
+        and I try to build every day I can.
       </p>
   </div>
   <div>
