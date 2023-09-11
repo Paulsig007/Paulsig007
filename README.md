@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href='https://www.linkedin.com/in/andricksiegmund/' target="_blank">
-<img alt='LinkedIn' src='https://img.shields.io/badge/Andrick's_LinkedIn-100000?style=social&logo=LinkedIn&logoColor=white&labelColor=0072b1&color=0072b1'/>
+<img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 
 <a href='https://andrick-siegmunds-portfolio.netlify.app/' target="_blank">
