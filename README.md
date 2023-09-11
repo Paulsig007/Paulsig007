@@ -1,11 +1,5 @@
 ### Hi there 👋
-<a href='https://www.linkedin.com/in/andricksiegmund/' target="_blank">
-<img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
-</a>
-
-<a href='https://andrick-siegmunds-portfolio.netlify.app/' target="_blank">
-<img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-100000?style=plastic&logo=Portfolio&logoColor=EAA503&labelColor=1f4069&color=1f4069'/>
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-andrick-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andricksiegmund/)](https://www.linkedin.com/in/andricksiegmund/)
 
 <!--
 **Paulsig007/Paulsig007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
