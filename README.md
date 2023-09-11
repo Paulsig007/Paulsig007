@@ -1,16 +1,34 @@
 
 
 ```cli
-npx create-react-app AndrickSiegmund
+npx create-react-app andrick-siegmund
 ```
 
 ```javascript
 import SoftwareEngineer from 'andrickSiegmund';
 
-class Introduction extends SoftwareEngineer {
-  this.intro    = 'Passionate full stack developer with a particular knack for backend intricacies,
-                   API design, and data modeling. I thrive on crafting high-quality web applications
-                   and love diving deep into complex challenges.';
+export default function Andrick() {
+  return(
+  <div>
+    <h1>Introduction</h1>
+      <p>
+        Passionate full stack developer, with a deep interest in the front-end and the user experience, driven by the thrill of the chase for the best solution. I believe living is synonomous with learning, and I try to 
+        build every day I can.
+      </p>
+  </div>
+  <div>
+    <h1>Skills</h1>
+      <h2>Languages:</h2>
+        <p>JavaScript, CSS, HTML</p>
+      <h2>Frameworks & Libraries:</h2>
+        <h3>Frontend:</h3>
+          <p>React, Material UI, Bootstrap</p>
+        <h3>Backend</h3>
+          <p>Node, GraphQL, Express</p>
+      <h2>Databases:</h2>
+        <p>SQL, MongoDB</p>
+    </div>
+);
 }
 ```
 Contact:
