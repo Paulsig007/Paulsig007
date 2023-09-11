@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-Andrick-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andricksiegmund/)](https://www.linkedin.com/in/andricksiegmund/)
@@ -6,6 +6,16 @@ Contact:
 
 Website:
 [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Netlify&logoColor=white&link=https://andrick-siegmunds-portfolio.netlify.app/)](https://andrick-siegmunds-portfolio.netlify.app/)
+
+```javascript
+import SoftwareEngineer from 'tyler-bolty';
+
+class Introduction extends SoftwareEngineer {
+  this.intro    = 'Passionate full stack developer with a particular knack for backend intricacies,
+                   API design, and data modeling. I thrive on crafting high-quality web applications
+                   and love diving deep into complex challenges.';
+}
+```
 
 
 
