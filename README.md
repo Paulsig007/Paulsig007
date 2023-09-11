@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-andrick-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andricksiegmund/)](https://www.linkedin.com/in/andricksiegmund/)
+[![Linkedin Badge](https://img.shields.io/badge/-Andrick-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andricksiegmund/)](https://www.linkedin.com/in/andricksiegmund/)
 
 <!--
 **Paulsig007/Paulsig007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
