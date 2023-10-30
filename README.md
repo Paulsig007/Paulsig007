@@ -1,5 +1,7 @@
 <h1 align="center">Andrick Siegmund</h1>
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=software+engineer;debugger;problem+solver;lifelong+learner" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=software+engineer;debugger;problem+solver;lifelong+learner" alt="Typing SVG" /></a>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Andrick-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andricksiegmund/)](https://www.linkedin.com/in/andricksiegmund/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrick.siegmund@gmail.com)](mailto:andrick.siegmund@gmail.com)
