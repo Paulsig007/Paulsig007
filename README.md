@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">👋 Hey there! I'm [Your Name], a code wizard on a mission to sprinkle tech magic everywhere! 💻✨
-🚀 I'm fluent in programming languages and speak fluent emoji too! When the code finally clicks, I do a little victory dance. 💃💻
+
+🚀 💡 Every problem is a puzzle waiting to be solved. I dive in, dissect the issue, and relish the thrill of piecing it all together. It's like unlocking a treasure chest of solutions! When the code finally clicks, I do a little victory dance. 💃💻
 🌌 Space geek at heart, give me a sci-fi movie or mind-boggling space facts, and I'm over the moon! 🌠🚀
-🌮 Oh, and let's taco 'bout my love for, well, tacos. They're my kryptonite! 🌮❤️
 💡 Let's team up, talk tech, explore the cosmos, and maybe invent something awesome together!
 Connect with me and let's make the digital world a more exciting place! 🌟</p>
 
