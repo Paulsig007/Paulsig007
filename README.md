@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=software+engineer;debugger;problem+solver;lifelong+learner" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">👋 Hey there! I'm [Your Name], a code wizard on a mission to sprinkle tech magic everywhere! 💻✨
+<p align="center">👋 Hey there! I'm Andrick, a code wizard on a mission to sprinkle tech magic everywhere! 💻✨
 
 🚀 💡 Every problem is a puzzle waiting to be solved. I dive in, dissect the issue, and relish the thrill of piecing it all together. It's like unlocking a treasure chest of solutions! When the code finally clicks, I do a little victory dance. 💃💻
 🌌 Space geek at heart, give me a sci-fi movie or mind-boggling space facts, and I'm over the moon! 🌠🚀
