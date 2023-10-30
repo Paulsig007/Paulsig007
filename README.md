@@ -3,9 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=software+engineer;debugger;problem+solver;lifelong+learner" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-Andrick-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andricksiegmund/)](https://www.linkedin.com/in/andricksiegmund/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrick.siegmund@gmail.com)](mailto:andrick.siegmund@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Netlify&logoColor=white&link=https://andrick-siegmunds-portfolio.netlify.app/)](https://andrick-siegmunds-portfolio.netlify.app/)
+</p>
 
 <p align="center">👋 Hey there! I'm [Your Name], a code wizard on a mission to sprinkle tech magic everywhere! 💻✨
 🚀 I'm fluent in programming languages and speak fluent emoji too! When the code finally clicks, I do a little victory dance. 💃💻
