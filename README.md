@@ -16,7 +16,7 @@ Connect with me and let's make the digital world a more exciting place! 🌟</p>
 
 <h2 align="center">The Tools That Use Me</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,js,react,nodejs,express,mongodb,apollo,graphql,mysql,sequelize,heroku,html,css,regex,jest,bootstrap,vscode,discord,git,netlify&perline=9" />
+  <img src="https://skillicons.dev/icons?i=github,js,react,nodejs,express,mongodb,apollo,graphql,mysql,sequelize,heroku,html,css,regex,jest,bootstrap,vscode,discord,git,netlify&perline=10" />
 </p>
 
 
