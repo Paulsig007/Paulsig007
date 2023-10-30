@@ -2,7 +2,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrick.siegmund@gmail.com)](mailto:andrick.siegmund@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Netlify&logoColor=white&link=https://andrick-siegmunds-portfolio.netlify.app/)](https://andrick-siegmunds-portfolio.netlify.app/)
 
-![0d1117](https://github.com/Paulsig007/Paulsig007/assets/131915869/93f05fa7-4116-4c2a-981c-edb68050f9be)
+![0d1117 (1)](https://github.com/Paulsig007/Paulsig007/assets/131915869/ed2c18cb-e763-4d53-a61f-35469958dfb7)
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=software+engineer;debugger;problem+solver;lifelong+learner" alt="Typing SVG" /></a>
