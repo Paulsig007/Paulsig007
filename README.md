@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Andrick-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andricksiegmund/)](https://www.linkedin.com/in/andricksiegmund/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrick.siegmund@gmail.com)](mailto:andrick.siegmund@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Netlify&logoColor=white&link=https://www.andricksiegmund.com/)](https://andrick-siegmunds-portfolio.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Netlify&logoColor=white&link=https://www.andricksiegmund.com/)](https://www.andricksiegmund.com/)
 
 ![0d1117 (1)](https://github.com/Paulsig007/Paulsig007/assets/131915869/ed2c18cb-e763-4d53-a61f-35469958dfb7)
 
