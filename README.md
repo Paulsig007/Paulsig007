@@ -9,12 +9,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=software+engineer;debugger;problem+solver;lifelong+learner;tester;collaborator" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">Hey there! I'm Andrick, a code wizard on a mission to sprinkle tech magic everywhere!
-
-Every problem is a puzzle waiting to be solved. I dive in, dissect the issue, and relish the thrill of piecing it all together. It's like unlocking a treasure chest of solutions! When the code finally clicks, I do a little victory dance.
-Space geek at heart, give me a sci-fi movie or mind-boggling space facts, and I'm over the moon!
-Let's team up, talk tech, explore the cosmos, and maybe invent something awesome together!
-Connect with me and let's make the digital world a more exciting place!</p>
+<p align="center">
+  I'm just your run-of-the-mill space, tech, and science nerd. I love figuring out how and why things work. 
+</p>
 
 <h2 align="center">The Tools That Use Me</h2>
 <p align="center">
