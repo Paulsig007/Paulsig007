@@ -9,9 +9,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=software+engineer;debugger;problem+solver;lifelong+learner;tester;collaborator" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<h1 align="center">
   I'm just your run-of-the-mill space, tech, and science nerd. I love figuring out how and why things work. 
-</p>
+</h1>
 
 <h2 align="center">The Tools That Use Me</h2>
 <p align="center">
